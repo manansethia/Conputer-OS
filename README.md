@@ -1,2 +1,2 @@
-# conputer
-Conputer: Operating system as diverse as the humans.
+# Conputer-OS
+Operating system as diverse as the humans.
